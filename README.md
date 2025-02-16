@@ -53,3 +53,10 @@ Here are some VS Code Extensions that could help you have a better development e
 
 ## Contribute
 For change request, please clone and submit pull-request. Or e-mail at mark@theblokc.com
+
+
+## Transactions
+02-hardhat : 0xA4b6ad8d83cde25c197d14f882864DD678f04ea5
+03-erc20 : 0xc8a51976ECf6575A706241398e621E37Ebc5BC54
+04-erc721 : 0x3C0B98e13716828855e9D14fcFdcF303BCdc3CA3
+05-submit-tx : tx 0x10f87089367215f1c13321c764e9c22c2040068d01c477a1b5b3edbb93ccd8d7

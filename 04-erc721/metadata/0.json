@@ -1,0 +1,12 @@
+{
+    "name": "Cars",
+    "description": "Cars collection",
+    "symbol": "CAR",
+    "image": "https://i.imgur.com/iU6r2mN.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Car",
+            "value": "cat"
+        }
+    ]
+}
